@@ -1,0 +1,9 @@
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\bin\Debug\netcoreapp3.1\Data.AuthenticationTypes.deps.json
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\bin\Debug\netcoreapp3.1\Data.AuthenticationTypes.dll
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\bin\Debug\netcoreapp3.1\Data.AuthenticationTypes.pdb
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\obj\Debug\netcoreapp3.1\Data.AuthenticationTypes.csprojAssemblyReference.cache
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\obj\Debug\netcoreapp3.1\Data.AuthenticationTypes.csproj.CoreCompileInputs.cache
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\obj\Debug\netcoreapp3.1\Data.AuthenticationTypes.AssemblyInfoInputs.cache
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\obj\Debug\netcoreapp3.1\Data.AuthenticationTypes.AssemblyInfo.cs
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\obj\Debug\netcoreapp3.1\Data.AuthenticationTypes.dll
+C:\Users\bvail\Documents\GitHub\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\Data.AuthenticationTypes\obj\Debug\netcoreapp3.1\Data.AuthenticationTypes.pdb

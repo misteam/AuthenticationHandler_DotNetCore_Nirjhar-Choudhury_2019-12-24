@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24", "AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24.csproj", "{2A9ABB07-B8B5-41EB-B691-32EEB2EA5624}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainName.Domain", "..\DomainName.Domain\DomainName.Domain.csproj", "{9D18F244-F914-43E1-8868-6395D7AFD6A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.AuthenticationTypes", "..\Data.AuthenticationTypes\Data.AuthenticationTypes.csproj", "{92B154D8-6F5E-4163-B196-23FEAC98165E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainName.Infrastructure", "..\DomainName.Infrastructure\DomainName.Infrastructure.csproj", "{DAC4934E-AE43-4E79-8369-69791CFABB0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9ABB07-B8B5-41EB-B691-32EEB2EA5624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9ABB07-B8B5-41EB-B691-32EEB2EA5624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9ABB07-B8B5-41EB-B691-32EEB2EA5624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9ABB07-B8B5-41EB-B691-32EEB2EA5624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D18F244-F914-43E1-8868-6395D7AFD6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D18F244-F914-43E1-8868-6395D7AFD6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D18F244-F914-43E1-8868-6395D7AFD6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D18F244-F914-43E1-8868-6395D7AFD6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B154D8-6F5E-4163-B196-23FEAC98165E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B154D8-6F5E-4163-B196-23FEAC98165E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B154D8-6F5E-4163-B196-23FEAC98165E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B154D8-6F5E-4163-B196-23FEAC98165E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC4934E-AE43-4E79-8369-69791CFABB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC4934E-AE43-4E79-8369-69791CFABB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC4934E-AE43-4E79-8369-69791CFABB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC4934E-AE43-4E79-8369-69791CFABB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6602EC6-A522-4624-81F4-D7B44B1F6534}
+	EndGlobalSection
+EndGlobal

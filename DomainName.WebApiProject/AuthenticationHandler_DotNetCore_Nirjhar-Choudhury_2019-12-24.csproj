@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DomainName.WebApiProject</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DomainName.Domain\DomainName.Domain.csproj" />
+    <ProjectReference Include="..\DomainName.Infrastructure\DomainName.Infrastructure.csproj" />
+    <ProjectReference Include="..\Data.AuthenticationTypes\Data.AuthenticationTypes.csproj" />
+  </ItemGroup>
+
+
+</Project>

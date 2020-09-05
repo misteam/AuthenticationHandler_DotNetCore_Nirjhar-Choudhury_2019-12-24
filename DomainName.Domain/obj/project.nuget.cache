@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGZCbh8Pq6P159C0RyJfVWMc2QVpEqz8Mov7ZissySVOwLAMVTZ8w7O9pe2ek3wgFqtWQaVh1pmxRZVJshFx0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bvail\\Documents\\GitHub\\AuthenticationHandler_DotNetCore_Nirjhar-Choudhury_2019-12-24\\DomainName.Domain\\DomainName.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\bvail\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
